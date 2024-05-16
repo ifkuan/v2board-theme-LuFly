@@ -1,13 +1,12 @@
-# V2Board-theme-LuFly(首页)
+# docker版1Panel+docker版xBoard-theme-LuFly(首页)
 
 ## 部署方法
 
-进入v2Board的运行目录：
+进入docker容器xBoard终端,进入xBoard的运行目录：
 
 ```shell
-cd /usr/share/nginx/html/v2board/public/
+cd /www/public/
 ```
-> 宝塔：cd /www/wwwroot/网站目录/public/
 
 下拉首页文件：
 
