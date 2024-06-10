@@ -15,7 +15,7 @@ git clone https://github.com/ifkuan/v2board-theme-LuFly.git
 mv v2board-theme-LuFly/* .
 ```
 
-修改Nginx运行的index优先级：
+修改`/Xboard/.docker/etc/nginx/http.d/default.conf`运行的index优先级：
 
 ```shell
 index index.html index.htm index.php;
